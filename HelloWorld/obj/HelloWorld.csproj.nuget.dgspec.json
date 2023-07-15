@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/joao/Documentos/Trybe/Trybe Exercícios/C#/Conteúdos/HelloWorld/HelloWorld.csproj": {}
+    "/home/joao/Documentos/Trybe/Trybe Conteúdos/C#/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/joao/Documentos/Trybe/Trybe Exercícios/C#/Conteúdos/HelloWorld/HelloWorld.csproj": {
+    "/home/joao/Documentos/Trybe/Trybe Conteúdos/C#/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joao/Documentos/Trybe/Trybe Exercícios/C#/Conteúdos/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/joao/Documentos/Trybe/Trybe Conteúdos/C#/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/joao/Documentos/Trybe/Trybe Exercícios/C#/Conteúdos/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/home/joao/Documentos/Trybe/Trybe Conteúdos/C#/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/home/joao/.nuget/packages/",
-        "outputPath": "/home/joao/Documentos/Trybe/Trybe Exercícios/C#/Conteúdos/HelloWorld/obj/",
+        "outputPath": "/home/joao/Documentos/Trybe/Trybe Conteúdos/C#/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joao/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.119/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.120/RuntimeIdentifierGraph.json"
         }
       }
     }

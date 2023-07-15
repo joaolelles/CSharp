@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fgtgQdervTNG/MFrStksYSJnJJd7snha7fEHOft8S4WSO2Y8y09Ot5IX9FWpUhuqR3nl0nsUXLNMIC0toKSizA==",
+  "dgSpecHash": "sSRjDEUfHKD/4KC5ZqL2NtapPj8wIZAmUgNU/Q5HbW4MOcc2DF2g1csy3CSmer+T1/aYohe2POXmT6jj+0ofYA==",
   "success": true,
-  "projectFilePath": "/home/joao/Documentos/Trybe/Trybe Exercícios/C#/Conteúdos/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/joao/Documentos/Trybe/Trybe Conteúdos/C#/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
